@@ -15,7 +15,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Image Aesthetic Assessment
-+ Fei Gao, Yuhao Lin, Jiaqi Shi, Maoying Qiao, Nannan Wang: "*AesMamba: Universal Image Aesthetic Assessment with State Space Models*" ACM MM (2024) [[paper]](https://openreview.net/pdf?id=obaazx0Hbz) [[homepage]](https://github.com/AiArt-Gao/AesMamba)
++ Yipo Huang, Quan Yuan, Xiangfei Sheng, Zhichao Yang, Haoning Wu, Pengfei Chen, Yuzhe Yang, Leida Li, Weisi Lin: "*AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception.*"  arxiv (2024) [[pdf]](https://arxiv.org/pdf/2401.08276)) [[homepage]](https://github.com/yipoh/AesBench))
++ Fei Gao, Yuhao Lin, Jiaqi Shi, Maoying Qiao, Nannan Wang: "*AesMamba: Universal Image Aesthetic Assessment with State Space Models.*" ACM MM (2024) [[pdf]](https://openreview.net/pdf?id=obaazx0Hbz) [[homepage]](https://github.com/AiArt-Gao/AesMamba)
 + Shuai He, Anlong Ming, Shuntian Zheng, Haobin Zhong, Huadong Ma: "*EAT: An Enhancer for Aesthetics-Oriented Transformers.*" ACM MM (2023) [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper-PDF-EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[homepage]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main#eat-an-enhancer-for-aesthetics-oriented-transformers)
 + Yaohui Li, Yuzhe Yang, Huaxiong Li,Haoxing Chen, Liwu Xu, Leida Li, Yaqian Li, Yandong Guo: "*Transductive Aesthetic Preference Propagation for Personalized Image Aesthetics Assessment*" ACM MM (2023) [[pdf]](https://dl.acm.org/doi/10.1145/3503161.3548244)
 + Ran Yi, Haoyuan Tian, Zhihao Gu, Yu-Kun Lai, Paul L. Rosin: "*Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method*" CVPR (2023) [[pdf]](https://arxiv.org/abs/2303.15166) [[dataset]](https://github.com/Dreemurr-T/BAID)
